@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 677, y: 471}
+  m_MaxSize: {x: 14000, y: 14021}
   vertical: 0
-  controlID: 342
+  controlID: 1219
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -46,8 +46,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 308.80002
-    y: 73.6
+    x: 310
+    y: 19
     width: 893
     height: 402
   m_ViewDataDictionary: {fileID: 0}
@@ -86,7 +86,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -138,10 +138,10 @@ MonoBehaviour:
     y: 0
     width: 1204
     height: 731
-  m_MinSize: {x: 403, y: 492}
-  m_MaxSize: {x: 10001, y: 14042}
+  m_MinSize: {x: 402, y: 471}
+  m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 343
+  controlID: 1220
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -163,10 +163,10 @@ MonoBehaviour:
     y: 0
     width: 1204
     height: 423
-  m_MinSize: {x: 403, y: 221}
-  m_MaxSize: {x: 8003, y: 4021}
+  m_MinSize: {x: 402, y: 221}
+  m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 322
+  controlID: 1221
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -221,10 +221,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 32}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 38fbffff06450000
+      m_ExpandedIDs: 38fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -312,9 +312,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 64.0129, y: -14.395141, z: 84.16333}
+    m_Target: {x: -167.27737, y: 134.77423, z: -17.081074}
     speed: 2
-    m_Value: {x: 64.0129, y: -14.395141, z: 84.16333}
+    m_Value: {x: -167.27737, y: 134.77423, z: -17.081074}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -360,13 +360,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.14833744, y: -0.2762649, z: 0.04318117, w: -0.94863117}
+    m_Target: {x: 0.0624634, y: -0.3195472, z: -0.021150691, w: -0.94532824}
     speed: 2
-    m_Value: {x: -0.14833061, y: -0.27625218, z: 0.043179184, w: -0.94858754}
+    m_Value: {x: 0.062460124, y: -0.31953046, z: -0.021149581, w: -0.94527864}
   m_Size:
-    m_Target: 69.75876
+    m_Target: 24.941929
     speed: 2
-    m_Value: 69.75876
+    m_Value: 24.941929
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -436,8 +436,8 @@ MonoBehaviour:
     y: 423
     width: 1204
     height: 308
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 11}
   m_Panes:
   - {fileID: 11}
@@ -483,19 +483,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Karting/Prefabs/PrefabsDosBons
+    - Assets/AssetsdosBons
   m_ViewMode: 1
   m_StartGridSize: 60
   m_LastFolders:
-  - Assets/Karting/Prefabs/PrefabsDosBons
+  - Assets/AssetsdosBons
   m_LastFoldersGridSize: 60
   m_LastProjectPath: E:\guifu\Documents\GalaxyManStageKart\GalaxyManStageKart\GalaxyManStage(Kart)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 165}
-    m_SelectedIDs: 70550000
-    m_LastClickedID: 21872
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 26550000
+    m_LastClickedID: 21798
     m_ExpandedIDs: 0000000010550000125500001455000016550000185500001a55000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -549,8 +549,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: 98f2ffff
+    m_LastClickedInstanceID: -3432
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000082700000226f0000025400007a6a0000b67f040000000000
     m_RenameOverlay:
@@ -576,7 +576,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 1}
     m_GridSize: 60
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 320
@@ -668,5 +668,5 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
-  m_LastInspectedObjectInstanceID: -1
+  m_LastInspectedObjectInstanceID: -3432
   m_LastVerticalScrollValue: 0
